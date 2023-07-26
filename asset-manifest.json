@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bavi-portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/bavi-portfolio/static/js/main.b80ad2b5.js",
+    "main.js": "/bavi-portfolio/static/js/main.165fd598.js",
     "static/js/787.128fc6e9.chunk.js": "/bavi-portfolio/static/js/787.128fc6e9.chunk.js",
     "index.html": "/bavi-portfolio/index.html",
     "main.073c9b0a.css.map": "/bavi-portfolio/static/css/main.073c9b0a.css.map",
-    "main.b80ad2b5.js.map": "/bavi-portfolio/static/js/main.b80ad2b5.js.map",
+    "main.165fd598.js.map": "/bavi-portfolio/static/js/main.165fd598.js.map",
     "787.128fc6e9.chunk.js.map": "/bavi-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b80ad2b5.js"
+    "static/js/main.165fd598.js"
   ]
 }
