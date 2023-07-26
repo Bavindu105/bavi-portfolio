@@ -4,11 +4,12 @@ import { Home } from './Components/Home';
 
 function App() {
   return (
-    <BrowserRouter basename='/bavi-portfolio'>
-    <Routes>
-      <Route exact path='/' element = {<Home/>}/>
-    </Routes>
-    </BrowserRouter>
+    // <BrowserRouter basename='/bavi-portfolio'>
+    // <Routes>
+    //   <Route exact path='/' element = {<Home/>}/>
+    // </Routes>
+    // </BrowserRouter>
+    <h1>kabdkhfba</h1>
   );
 }
 
