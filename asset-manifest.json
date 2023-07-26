@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bavindu-portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/bavindu-portfolio/static/js/main.775bbf05.js",
+    "static/js/787.128fc6e9.chunk.js": "/bavindu-portfolio/static/js/787.128fc6e9.chunk.js",
+    "index.html": "/bavindu-portfolio/index.html",
+    "main.073c9b0a.css.map": "/bavindu-portfolio/static/css/main.073c9b0a.css.map",
+    "main.775bbf05.js.map": "/bavindu-portfolio/static/js/main.775bbf05.js.map",
+    "787.128fc6e9.chunk.js.map": "/bavindu-portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.775bbf05.js"
+  ]
+}
