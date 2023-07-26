@@ -4,7 +4,7 @@ import { Home } from './Components/Home';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/bavi-portfolio'>
     <Routes>
       <Route exact path='/' element = {<Home/>}/>
     </Routes>
