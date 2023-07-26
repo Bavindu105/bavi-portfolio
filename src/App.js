@@ -4,7 +4,11 @@ import { Home } from './Components/Home';
 
 function App() {
   return (
-    <h1>asasf</h1>
+    <BrowserRouter>
+    <Routes>
+      <Route exact path='/' element = {<Home/>}/>
+    </Routes>
+    </BrowserRouter>
   );
 }
 
